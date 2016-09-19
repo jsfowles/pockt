@@ -1,3 +1,5 @@
 == POCKT
 
 An app designed to help visualize budgets and plan financially.
+
+Technologies used: Rails and React
